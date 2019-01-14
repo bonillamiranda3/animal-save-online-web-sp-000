@@ -10,7 +10,8 @@ html {
 
 /* Write your solution here */
 @media only screen and (max-width: 1326px) {
-  #ostrich {
-    bottom: -125px;
+  #monkey {
+    right: 0;
+    top: 0;
   }
 }
